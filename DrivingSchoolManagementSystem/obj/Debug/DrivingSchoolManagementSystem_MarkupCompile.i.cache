@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\001 - Desktop_Projects\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\
 DrivingSchoolManagementSystem
 none
 false
 DEBUG;TRACE
-C:\001 - Desktop_Projects\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\App.xaml
-31923504963
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\App.xaml
+3574706877
 
-8274402345
-15-235102825
-MainWindow.xaml;VehicleControl.xaml;UserControlHome.xaml;
+8-15015885
+15-250435714
+MainWindow.xaml;ControlVehicle.xaml;ControlHome.xaml;
 
 True
 

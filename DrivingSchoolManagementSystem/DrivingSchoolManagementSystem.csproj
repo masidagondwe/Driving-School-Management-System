@@ -77,11 +77,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="VehicleControl.xaml.cs">
-      <DependentUpon>VehicleControl.xaml</DependentUpon>
+    <Compile Include="ControlVehicle.xaml.cs">
+      <DependentUpon>ControlVehicle.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UserControlHome.xaml.cs">
-      <DependentUpon>UserControlHome.xaml</DependentUpon>
+    <Compile Include="ControlHome.xaml.cs">
+      <DependentUpon>ControlHome.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -95,11 +95,11 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="VehicleControl.xaml">
+    <Page Include="ControlVehicle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UserControlHome.xaml">
+    <Page Include="ControlHome.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

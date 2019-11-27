@@ -23,3 +23,28 @@ C:\001 - Desktop_Projects\DrivingSchoolManagementSystem\DrivingSchoolManagementS
 C:\001 - Desktop_Projects\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.csproj.CopyComplete
 C:\001 - Desktop_Projects\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.exe
 C:\001 - Desktop_Projects\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.pdb
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\DrivingSchoolManagementSystem.exe.config
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\DrivingSchoolManagementSystem.exe
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\DrivingSchoolManagementSystem.pdb
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\App.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem_MarkupCompile.cache
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem_MarkupCompile.lref
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\App.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.g.resources
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.Properties.Resources.resources
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.csproj.CopyComplete
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.exe
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.pdb
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.csprojAssemblyReference.cache
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlVehicle.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlHome.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlVehicle.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlHome.baml

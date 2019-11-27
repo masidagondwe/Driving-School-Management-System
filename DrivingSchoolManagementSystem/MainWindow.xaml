@@ -131,7 +131,7 @@
                 </StackPanel>
             </Grid>
 
-            <Grid x:Name="GridBody" Grid.Row="1" Grid.Column="1" Margin="77,60,0,0">
+            <Grid x:Name="GridBody" Grid.Row="1" Grid.Column="1" Margin="71,61,0,0" Background="#FF495A7E">
 
             </Grid>
         </Grid>
