@@ -73,7 +73,7 @@ namespace DrivingSchoolManagementSystem.Models
         }
 
 
-        public mInstructor(string pFirstName, string pMiddeleName, string pLastName, string pPhoneNumber, string pEmailAddress, string pJobTitle, DateTime pDateOfHire, string pHomeAddress, string pNationality, DateTime pDateOfBirth, char pMaritalStatus, string pGender, string pIndetificationType, string pIdentificationNumber, byte[] pProfilePhoto)
+        public mInstructor(string pFirstName, string pMiddeleName, string pLastName, string pPhoneNumber, string pEmailAddress, string pJobTitle, DateTime pDateOfHire, string pHomeAddress, string pNationality, DateTime pDateOfBirth, char pMaritalStatus, string pGender, string pIndetificationType, string pIdentificationNumber, byte[] pProfilePhoto, int pLicenseID, int pEmergencyContactID, int pDisabilityID)
         {
             FirstName = pFirstName;
             MiddleName = pMiddeleName;
