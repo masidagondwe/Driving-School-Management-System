@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using DrivingSchoolManagementSystem.Views;
+using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 
@@ -59,12 +60,16 @@ namespace DrivingSchoolManagementSystem
                     usc = new ControlVehicle();
                     GridBody.Children.Add(usc);
                     break;
+                case "Employees":
+                    usc = new ControlEmployee();
+                    GridBody.Children.Add(usc);
+                    break;
                 case "Students":
-                    usc = new ControlVehicle();
+                    usc = new ControlStudent();
                     GridBody.Children.Add(usc);
                     break;
                 case "Settings":
-                    usc = new ControlVehicle();
+                    usc = new ControlSettings();
                     GridBody.Children.Add(usc);
                     break;
                 default:

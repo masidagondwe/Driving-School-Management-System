@@ -44,7 +44,11 @@ C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSy
 C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.exe
 C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.pdb
 C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\DrivingSchoolManagementSystem.csprojAssemblyReference.cache
-C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlVehicle.g.cs
-C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlHome.g.cs
-C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlVehicle.baml
-C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\ControlHome.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlHome.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlStudent.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlVehicle.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlHome.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlStudent.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlVehicle.baml
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlEmployee.g.cs
+C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\obj\Debug\Views\ControlSettings.g.cs

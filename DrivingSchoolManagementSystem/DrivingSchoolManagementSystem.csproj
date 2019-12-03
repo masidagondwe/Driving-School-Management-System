@@ -77,12 +77,46 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ControlVehicle.xaml.cs">
-      <DependentUpon>ControlVehicle.xaml</DependentUpon>
+    <Compile Include="Models\mCourse.cs" />
+    <Compile Include="Models\mDisability.cs" />
+    <Compile Include="Models\mEmergencyContact.cs" />
+    <Compile Include="Models\mEnrollment.cs" />
+    <Compile Include="Models\mFuelCost.cs" />
+    <Compile Include="Models\mInstructor.cs" />
+    <Compile Include="Models\mLessonType.cs" />
+    <Compile Include="Models\mStudent.cs" />
+    <Compile Include="Models\mVehicle.cs" />
+    <Compile Include="Views\ControlEmployee.xaml.cs">
+      <DependentUpon>ControlEmployee.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ControlHome.xaml.cs">
+    <Compile Include="Views\ControlHome.xaml.cs">
       <DependentUpon>ControlHome.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\ControlSettings.xaml.cs">
+      <DependentUpon>ControlSettings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ControlStudent.xaml.cs">
+      <DependentUpon>ControlStudent.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ControlVehicle.xaml.cs">
+      <DependentUpon>ControlVehicle.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Views\ControlEmployee.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ControlHome.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ControlSettings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ControlStudent.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -95,11 +129,7 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="ControlVehicle.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="ControlHome.xaml">
+    <Page Include="Views\ControlVehicle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -147,6 +177,9 @@
     <Resource Include="Resources\favicon.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

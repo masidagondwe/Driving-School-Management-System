@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Temwani\Desktop\DrivingSchoolManagementSystem\DrivingSchoolManagementSystem\App.xaml
-3574706877
+61550675171
 
-8-15015885
+20856804083
 15-250435714
-MainWindow.xaml;ControlVehicle.xaml;ControlHome.xaml;
+Views\ControlEmployee.xaml;Views\ControlHome.xaml;Views\ControlSettings.xaml;Views\ControlStudent.xaml;MainWindow.xaml;Views\ControlVehicle.xaml;
 
-True
+False
 
