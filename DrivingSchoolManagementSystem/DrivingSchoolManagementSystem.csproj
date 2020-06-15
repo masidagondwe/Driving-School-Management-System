@@ -77,6 +77,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AppHelpers\BaseDropDown.cs" />
+    <Compile Include="AppHelpers\PublicDropDown.cs" />
+    <Compile Include="AppHelpers\PublicHelpers.cs" />
+    <Compile Include="AppHelpers\PublicMembers.cs" />
     <Compile Include="Models\mCourse.cs" />
     <Compile Include="Models\mDisability.cs" />
     <Compile Include="Models\mEmergencyContact.cs" />
@@ -179,6 +183,12 @@
     </Resource>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Converters\" />
+    <Folder Include="DAL\" />
+    <Folder Include="Mvvm\" />
+    <Folder Include="Navigation\" />
+    <Folder Include="Reports\" />
+    <Folder Include="SqlServerTypes\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
