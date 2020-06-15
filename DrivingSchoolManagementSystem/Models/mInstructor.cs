@@ -26,25 +26,25 @@ namespace DrivingSchoolManagementSystem.Models
         private int disabiltyID;
 
 
-        public int ID{ get { return id; } set { id = value; OnPropertyChanged("ID"); } }
-        public string FirstName{ get { return firstName; } set { firstName = value; OnPropertyChanged("FirstName"); } }
-        public string MiddleName{ get { return middleName; } set { middleName = value; OnPropertyChanged("MiddleName"); } }
-        public string LastName{ get { return lastName; } set { lastName = value; OnPropertyChanged("LastName"); } }
-        public string PhoneNumber{ get { return phoneNumber; } set { phoneNumber = value; OnPropertyChanged("PhoneNumber"); } }
-        public string EmailAddress{ get { return emailAddress; } set { emailAddress = value; OnPropertyChanged("EmailAddress"); } }
-        public string JobTitle{ get { return jobTitle; } set { jobTitle = value; OnPropertyChanged("JobTitle"); } }
-        public DateTime DateOfHire{ get { return dateOfHire; } set { dateOfHire = value; OnPropertyChanged("DateOfHire"); } }
-        public string HomeAddress{ get { return homeAddress; } set { homeAddress = value; OnPropertyChanged("HomeAddress"); } }
-        public string Nationality{ get { return nationality; } set { nationality = value; OnPropertyChanged("Nationality"); } }
-        public DateTime DateOfBirth{ get { return dateOfBirth; } set { dateOfBirth = value; OnPropertyChanged("DateOfBirth"); } }
-        public char MaritalStatus{ get { return maritalStatus; } set { maritalStatus = value; OnPropertyChanged("MaritalStatus"); } }
-        public string Gender{ get { return gender; } set { gender = value; OnPropertyChanged("Gender"); } }
-        public string IndetificationType{ get { return idetificationType; } set { idetificationType = value; OnPropertyChanged("IndetificationType"); } }
-        public string IdentificationNumber{ get { return identificationNumber; } set { identificationNumber = value; OnPropertyChanged("IdentificationNumber"); } }
-        public byte[] ProfilePhoto{ get { return profilePhoto; } set { profilePhoto = value; OnPropertyChanged("ProfilePhoto"); } }
-        public int LicenseID{ get { return licenseID; } set { licenseID = value; OnPropertyChanged("LicenseID"); } }
-        public int EmergencyContactID{ get { return emergencyContactID; } set { emergencyContactID = value; OnPropertyChanged("EmergencyContactID"); } }
-        public int DisabiltyID{ get { return disabiltyID; } set { disabiltyID = value; OnPropertyChanged("DisabiltyID"); } }
+        public int ID { get { return id; } set { id = value; OnPropertyChanged("ID"); } }
+        public string FirstName { get { return firstName; } set { firstName = value; OnPropertyChanged("FirstName"); } }
+        public string MiddleName { get { return middleName; } set { middleName = value; OnPropertyChanged("MiddleName"); } }
+        public string LastName { get { return lastName; } set { lastName = value; OnPropertyChanged("LastName"); } }
+        public string PhoneNumber { get { return phoneNumber; } set { phoneNumber = value; OnPropertyChanged("PhoneNumber"); } }
+        public string EmailAddress { get { return emailAddress; } set { emailAddress = value; OnPropertyChanged("EmailAddress"); } }
+        public string JobTitle { get { return jobTitle; } set { jobTitle = value; OnPropertyChanged("JobTitle"); } }
+        public DateTime DateOfHire { get { return dateOfHire; } set { dateOfHire = value; OnPropertyChanged("DateOfHire"); } }
+        public string HomeAddress { get { return homeAddress; } set { homeAddress = value; OnPropertyChanged("HomeAddress"); } }
+        public string Nationality { get { return nationality; } set { nationality = value; OnPropertyChanged("Nationality"); } }
+        public DateTime DateOfBirth { get { return dateOfBirth; } set { dateOfBirth = value; OnPropertyChanged("DateOfBirth"); } }
+        public char MaritalStatus { get { return maritalStatus; } set { maritalStatus = value; OnPropertyChanged("MaritalStatus"); } }
+        public string Gender { get { return gender; } set { gender = value; OnPropertyChanged("Gender"); } }
+        public string IndetificationType { get { return idetificationType; } set { idetificationType = value; OnPropertyChanged("IndetificationType"); } }
+        public string IdentificationNumber { get { return identificationNumber; } set { identificationNumber = value; OnPropertyChanged("IdentificationNumber"); } }
+        public byte[] ProfilePhoto { get { return profilePhoto; } set { profilePhoto = value; OnPropertyChanged("ProfilePhoto"); } }
+        public int LicenseID { get { return licenseID; } set { licenseID = value; OnPropertyChanged("LicenseID"); } }
+        public int EmergencyContactID { get { return emergencyContactID; } set { emergencyContactID = value; OnPropertyChanged("EmergencyContactID"); } }
+        public int DisabiltyID { get { return disabiltyID; } set { disabiltyID = value; OnPropertyChanged("DisabiltyID"); } }
 
         public mInstructor()
         {
