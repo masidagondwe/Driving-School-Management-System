@@ -1,0 +1,50 @@
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\TT_AssetManagementPortal.exe.config
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\TT_AssetManagementPortal.exe
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\TT_AssetManagementPortal.pdb
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignColors.dll
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignColors.pdb
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.csprojAssemblyReference.cache
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\MainWindow.baml
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\MainWindow.g.cs
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\App.g.cs
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal_MarkupCompile.cache
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal_MarkupCompile.lref
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\App.baml
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.g.resources
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.Properties.Resources.resources
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.csproj.GenerateResource.cache
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.csproj.CopyComplete
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.exe
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.pdb
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlCreate.g.cs
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlHome.g.cs
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlCreate.baml
+C:\Users\mgondwe2\Downloads\Desktop_Apps\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlHome.baml
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\TT_AssetManagementPortal.exe.config
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\TT_AssetManagementPortal.exe
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\TT_AssetManagementPortal.pdb
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignColors.dll
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignColors.pdb
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.csprojAssemblyReference.cache
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\MainWindow.baml
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\MainWindow.g.cs
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlCreate.g.cs
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlHome.g.cs
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\App.g.cs
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal_MarkupCompile.cache
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal_MarkupCompile.lref
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\App.baml
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlCreate.baml
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\UserControlHome.baml
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.g.resources
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.Properties.Resources.resources
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.csproj.GenerateResource.cache
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.csproj.CopyComplete
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.exe
+C:\001 - Desktop_Projects\TT_AssetManagementPortal\TT_AssetManagementPortal\TT_AssetManagementPortal\obj\Debug\TT_AssetManagementPortal.pdb
