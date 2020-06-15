@@ -81,6 +81,7 @@
     <Compile Include="AppHelpers\PublicDropDown.cs" />
     <Compile Include="AppHelpers\PublicHelpers.cs" />
     <Compile Include="AppHelpers\PublicMembers.cs" />
+    <Compile Include="Converters\ProgressToEnabledConverter.cs" />
     <Compile Include="Models\mCourse.cs" />
     <Compile Include="Models\mDisability.cs" />
     <Compile Include="Models\mEmergencyContact.cs" />
@@ -90,6 +91,8 @@
     <Compile Include="Models\mLessonType.cs" />
     <Compile Include="Models\mStudent.cs" />
     <Compile Include="Models\mVehicle.cs" />
+    <Compile Include="Navigation\Navigation.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="Views\ControlEmployee.xaml.cs">
       <DependentUpon>ControlEmployee.xaml</DependentUpon>
     </Compile>
@@ -183,13 +186,17 @@
     </Resource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Converters\" />
     <Folder Include="DAL\" />
     <Folder Include="Mvvm\" />
-    <Folder Include="Navigation\" />
     <Folder Include="Reports\" />
-    <Folder Include="SqlServerTypes\" />
     <Folder Include="ViewModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll" />
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll" />
+    <Content Include="SqlServerTypes\x86\msvcr120.dll" />
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
