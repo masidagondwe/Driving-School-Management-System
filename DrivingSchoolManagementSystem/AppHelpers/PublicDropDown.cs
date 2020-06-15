@@ -15,26 +15,6 @@ namespace DrivingSchoolManagementSystem.AppHelpers
         public ObservableCollection<BaseDropDown> OCInstructorsSearchMethods { get; set; }
         public ObservableCollection<BaseDropDown> OCStudentsSearchMethods { get; set; }
 
-        ////Vehicle related
-        //public ObservableCollection<BaseDropDown> OCMake { get; set; }
-
-        //public ObservableCollection<BaseDropDown> OCType { get; set; }
-
-        //public ObservableCollection<BaseDropDown> OCYearManufactured { get; set; }
-
-
-        ////InstructorRelated
-
-        //public ObservableCollection<BaseDropDown> OCSection { get; set; }
-
-        //public ObservableCollection<BaseDropDown> OCMealType { get; set; }
-
-        //public ObservableCollection<BaseDropDown> OCCollectionPoint { get; set; }
-
-        //public ObservableCollection<BaseDropDown> OCCostCode { get; set; }
-
-        ////public ObservableCollection<ComDivDepSecCostCode> OCComDivDepSecCostCode { get; set; }
-
 
         public PublicDropDown()
         {
@@ -44,22 +24,6 @@ namespace DrivingSchoolManagementSystem.AppHelpers
 
             PrepStudentSearchMethods();
 
-
-            //_CommonRepository = new CommonRepository();
-
-            //OCCompany = _CommonRepository.ReturnDropDownCollection(CanteenOCollections.OCCompany);
-
-            //OCDivision = _CommonRepository.ReturnDropDownCollection(CanteenOCollections.OCDivision);
-
-            //OCDepartment = _CommonRepository.ReturnDropDownCollection(CanteenOCollections.OCDepartment);
-
-            //OCSection = _CommonRepository.ReturnDropDownCollection(CanteenOCollections.OCSection);
-
-            //OCCollectionPoint = _CommonRepository.ReturnDropDownCollection(CanteenOCollections.OCCollectionPoint);
-
-            //OCCostCode = _CommonRepository.ReturnDropDownCollection(CanteenOCollections.OCCostCode);
-
-            //OCComDivDepSecCostCode = _CommonRepository.ReturnDropDownCollection();
         }
 
 

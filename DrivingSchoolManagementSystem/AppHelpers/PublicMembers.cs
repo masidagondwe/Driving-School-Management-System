@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DrivingSchoolManagementSystem.Models;
+using System.Collections.ObjectModel;
 
 namespace DrivingSchoolManagementSystem.AppHelpers
 {
@@ -22,10 +19,10 @@ namespace DrivingSchoolManagementSystem.AppHelpers
         //public static CommonRepository _CommonRepository;
 
 
-        //public static ObservableCollection<Client> AllCanteenClients;
-        //public static ObservableCollection<BulkCard> AllBulkMealCards;
-        //public static ObservableCollection<BulkMember> AllBulkMealCardMembers;
+        public static ObservableCollection<mStudent> AllStudents;
+        public static ObservableCollection<mInstructor> AllInstructors;
+        public static ObservableCollection<mVehicle> AllVehicles;
 
-        //public static PublicDropDown PublicDropDownCollections;
+        public static PublicDropDown PublicDropDownCollections;
     }
 }
