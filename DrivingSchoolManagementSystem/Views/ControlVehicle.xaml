@@ -21,7 +21,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Grid x:Name="VehicleSearchView" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Background="Azure">
+        <Grid x:Name="VehicleSearchView" Grid.Column="0" Grid.ColumnSpan="1" Grid.Row="0" Background="Azure">
 
         </Grid>
 
@@ -60,11 +60,14 @@
                         <RowDefinition Height="Auto" />
                     </Grid.RowDefinitions>
 
-                    <ListBox x:Name="FruitListBox" Background="#FFF7FAFB" Margin="0,0,1,0">
+
+
+
+                    <!--<ListBox x:Name="VehicleListBox"  Margin="0,0,1,0">
                         <ListBoxItem Foreground="#DD0E0D0D">Apple</ListBoxItem>
                         <ListBoxItem Foreground="#DD0E0D0D">Banana</ListBoxItem>
                         <ListBoxItem Foreground="#DD040404">Pear</ListBoxItem>
-                    </ListBox>
+                    </ListBox>-->
 
                     <materialDesign:ColorZone Mode="PrimaryMid" Grid.Row="1" Effect="{DynamicResource MaterialDesignShadowDepth5}" Background="#FF22537A">
                         <TextBlock Margin="16" FontSize="18" FontFamily="Segoe UI Historic"> Vehicles</TextBlock>
