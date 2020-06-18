@@ -98,7 +98,44 @@
 
         </Grid>
 
-        <Grid x:Name="VehicleDetailView" Grid.Column="1" Grid.Row="1"  Background="Azure" Margin="2,2,0,0"/>
+        <Grid x:Name="VehicleDetailView" Grid.Column="1" Grid.Row="1"  Background="Azure" Margin="2,2,0,0">
+
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="225"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="56"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="1" Margin="2,0,0,0">
+                <ListView x:Name="VehicleOptionsMenu" Foreground="#FF5C99D6" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionChanged="ListViewMenu_SelectionChanged">
+                    <ListViewItem x:Name="vEdit" Height="25" Width="25">
+                        <StackPanel Orientation="Vertical">
+                            <materialDesign:PackIcon Kind="Home" Height="25" Width="25" Margin="12"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem x:Name="vDelete" Height="25" Width="25">
+                        <StackPanel Orientation="Vertical">
+                            <materialDesign:PackIcon Kind="CarMultiple" Height="25" Width="25" Margin="12"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+            </Grid>
+
+            
+            <Grid  Grid.Row="3" Grid.Column="1" Margin="2,0,0,0">
+                <Button Content="Save" Grid.Column="1" HorizontalAlignment="Left" Margin="161,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="102" Height="36" Background="#FF067255" FontSize="16" FontWeight="Bold"/>
+                <Button Content="Cancel" Grid.Column="1" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="101" Height="36" Background="#FF9B1628" FontSize="16" FontWeight="Bold"/>
+
+            </Grid>
+
+        </Grid>
 
     </Grid>
 </UserControl>
