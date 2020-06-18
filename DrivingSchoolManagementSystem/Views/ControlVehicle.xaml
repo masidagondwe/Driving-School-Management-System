@@ -22,7 +22,10 @@
         </Grid.RowDefinitions>
 
         <Grid x:Name="VehicleSearchView" Grid.Column="0" Grid.ColumnSpan="1" Grid.Row="0" Background="Azure">
-
+            <TextBox Text="Search Vehicles By :"  HorizontalAlignment="Left" Height="37" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Background="{x:Null}" Foreground="#DD080D21" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.496,0.236"/>
+            <ComboBox HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top" Width="280" RenderTransformOrigin="0.509,-0.74" Height="32" BorderBrush="#890D1055"/>
+            <TextBox HorizontalAlignment="Left" Height="31" Margin="10,84,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="280" RenderTransformOrigin="0.491,-0.345" BorderBrush="#890D1055"/>
+            <Button Content="Find Cars" HorizontalAlignment="Left" Margin="10,120,0,-2" VerticalAlignment="Top" Width="280" Background="#FF22537A"/>
         </Grid>
 
         <Grid x:Name="VehiclesListView" Grid.Column="0" Grid.Row="1" Background="Azure" Margin="0,0,1,0">
@@ -55,6 +58,10 @@
                 </materialDesign:DialogHost.DialogContent>
 
                 <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="23*"/>
+                        <ColumnDefinition Width="277*"/>
+                    </Grid.ColumnDefinitions>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="*" />
                         <RowDefinition Height="Auto" />
@@ -69,7 +76,7 @@
                         <ListBoxItem Foreground="#DD040404">Pear</ListBoxItem>
                     </ListBox>-->
 
-                    <materialDesign:ColorZone Mode="PrimaryMid" Grid.Row="1" Effect="{DynamicResource MaterialDesignShadowDepth5}" Background="#FF22537A">
+                    <materialDesign:ColorZone Mode="PrimaryMid" Grid.Row="1" Effect="{DynamicResource MaterialDesignShadowDepth5}" Background="#FF22537A" Grid.ColumnSpan="2">
                         <TextBlock Margin="16" FontSize="18" FontFamily="Segoe UI Historic"> Vehicles</TextBlock>
                     </materialDesign:ColorZone>
 
@@ -78,7 +85,7 @@
                             VerticalAlignment="Bottom"
                             HorizontalAlignment="Right"
                             Grid.Row="0"
-                            Margin="0 0 28 -20" Background="#FF532C66" BorderBrush="#FF532C66">
+                            Margin="0,0,28,36" Background="#FF532C66" BorderBrush="#FF532C66" Grid.Column="1" Grid.RowSpan="2">
                         <materialDesign:PackIcon Kind="Plus" Height="22" Width="22" />
                     </Button>
                 </Grid>
@@ -86,7 +93,12 @@
             </materialDesign:DialogHost>
         </Grid>
 
-        <Grid x:Name="VehicleDetailView" Grid.Column="1" Grid.Row="1" Background="#FFF7FAFB">
+        <Grid x:Name="VehicleRegView" Grid.Column="1" Grid.Row="0"  Background="Azure">
+            <Label Content="Vehicle Reg #" HorizontalAlignment="Center" Margin="28,25,0,0" VerticalAlignment="Center" Height="95" Width="445" FontWeight="Bold" FontSize="40" Foreground="#DD080D21" Background="{x:Null}" FontFamily="Segoe UI Semibold"/>
+
+        </Grid>
+
+        <Grid x:Name="VehicleDetailView" Grid.Column="1" Grid.Row="1"  Background="Azure">
 
         </Grid>
 
