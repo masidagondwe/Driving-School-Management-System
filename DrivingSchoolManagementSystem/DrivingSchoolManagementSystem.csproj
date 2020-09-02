@@ -82,6 +82,7 @@
     <Compile Include="AppHelpers\PublicHelpers.cs" />
     <Compile Include="AppHelpers\PublicMembers.cs" />
     <Compile Include="Converters\ProgressToEnabledConverter.cs" />
+    <Compile Include="Converters\UserRepository.cs" />
     <Compile Include="Models\mCourse.cs" />
     <Compile Include="Models\mDisability.cs" />
     <Compile Include="Models\mEmergencyContact.cs" />
@@ -90,6 +91,7 @@
     <Compile Include="Models\mInstructor.cs" />
     <Compile Include="Models\mLessonType.cs" />
     <Compile Include="Models\mStudent.cs" />
+    <Compile Include="Models\mUser.cs" />
     <Compile Include="Models\mVehicle.cs" />
     <Compile Include="Navigation\Navigation.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />

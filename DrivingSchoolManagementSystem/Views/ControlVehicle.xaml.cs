@@ -11,5 +11,10 @@ namespace DrivingSchoolManagementSystem.Views
         {
             InitializeComponent();
         }
+
+        private void ListViewMenu_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
